@@ -23,7 +23,7 @@ def f(a, b):
 	'''
 
 	## Your code goes here
-
+	c = a + b
 	##
 
 	return c
